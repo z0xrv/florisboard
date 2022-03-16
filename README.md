@@ -17,12 +17,12 @@
 
 ## Usage
 
-1. Download the theme .flex file here
-2. Open the florisboard's settings
+1. Download the theme .flex. 
+2. Open the florisboard's settings.
 3. Go to Theme and click Manage installed themes.
-4. Select import and then click on Select files
-5. Choose where you've saved the theme file, and click Import
-6. Choose the theme named 'Catpuccin Theme'
+4. Select import and then click on Select files.
+5. Choose where you've saved the theme file, and click Import.
+6. Choose the theme named 'Catpuccin Theme'.
 
 ## Screenshots
 ![Florisboard](assets/ss.jpg)
